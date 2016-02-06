@@ -12,7 +12,7 @@ Currently working on nginx reverse proxy issue so Jenkins is using port 80.
 
 ##### Start Container
 
-docker-compose up
+    docker-compose up
 
 ## Maintainers
 
