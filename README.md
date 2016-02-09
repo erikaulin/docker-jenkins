@@ -4,6 +4,8 @@ Jenkins container
 
 ## Usage
 
+`git clone git@github.com:erikaulin/docker-jenkins.git`
+
 Run `docker-compose up -d` After a minute Jenkins has been configured and nginx should be listening on ports 80.
 
 #### docker-compose.yml
